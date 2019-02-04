@@ -1,0 +1,11 @@
+[package]
+name = "milk_money"
+version = "0.1.0"
+authors = ["Grzegorz Wilczynski <gwilczynski@gmail.com>"]
+edition = "2018"
+description = "Library for dealing with money and currency conversion"
+homepage = "https://github.com/gwilczynski/milk_money"
+repository = "https://github.com/gwilczynski/milk_money"
+license = "MIT"
+
+[dependencies]
